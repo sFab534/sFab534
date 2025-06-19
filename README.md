@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋  
+I'm a Transport and Logistics student at Gdańsk University of Technology. I specialize in transport data analysis, GIS, and machine learning applications, particularly in AIS signal processing.
 
-<!--
-**sFab534/sFab534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech stack:
+- Python, Pandas, GeoPandas, Git
 
-Here are some ideas to get you started:
+### 📊 Selected Projects:
+- **Risk Indicator for Ice Navigation in the Northern Baltic Sea** – Investigating the correlation between maritime accidents and vessel activity in ice-covered areas of the northern Baltic Sea. Mapping and assessing navigation risk in icy conditions.
+- **AIS Data in ML** – Processing AIS data for machine learning and transport analytics. Contributing to the private repository `WiRPG/OpenRiskII`. Due to access restrictions, I can share selected parts or provide access upon request.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Currently:
+- Member of the WiR Science Club at Gdańsk University of Technology  
+- Developing AIS + Ice + ML projects under the OpenRiskII initiative  
+- Responsible for maintaining the AIS 3858 receiver at Gdańsk University of Technology – ranked #1 in Poland by ship coverage
